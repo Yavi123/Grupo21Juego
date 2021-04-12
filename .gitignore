@@ -1,0 +1,13 @@
+.vs/
+Practica4/bin/
+Practica4/obj/Debug/netcoreapp3.1/Practica4.csproj.FileListAbsolute.txt
+Practica4/obj/Debug/netcoreapp3.1/Practica4.dll
+Practica4/obj/Debug/netcoreapp3.1/Practica4.pdb
+Practica4/obj/Debug/netcoreapp3.1/apphost.exe
+*.cache
+*.json
+Practica4/obj/Debug/netcoreapp3.1/Practica4.assets.cache
+Practica4/obj/Debug/netcoreapp3.1/Practica4.csprojAssemblyReference.cache
+Practica4/obj/Practica.csproj.nuget.dgspec.json
+Practica4/obj/project.assets.json
+Practica4/obj/project.nuget.cache
