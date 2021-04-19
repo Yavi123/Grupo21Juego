@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Practica4
 {
@@ -6,7 +7,7 @@ namespace Practica4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Rojo");
         }
     }
 }
