@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Javier\\.nuget\\packages\\": {}
+    "C:\\Users\\EGLÖP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier\\PracticasMAP\\Grupo21\\Practica4\\Practica4.csproj",
+      "projectUniqueName": "C:\\Users\\EGLÖP\\Documents\\EGLÖP\\Importante\\UCM\\EduardoGallardo-MAP\\Git\\Grupo21Juego\\Practica4\\Practica4.csproj",
       "projectName": "Practica4",
-      "projectPath": "C:\\Users\\Javier\\PracticasMAP\\Grupo21\\Practica4\\Practica4.csproj",
-      "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier\\PracticasMAP\\Grupo21\\Practica4\\obj\\",
+      "projectPath": "C:\\Users\\EGLÖP\\Documents\\EGLÖP\\Importante\\UCM\\EduardoGallardo-MAP\\Git\\Grupo21Juego\\Practica4\\Practica4.csproj",
+      "packagesPath": "C:\\Users\\EGLÖP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EGLÖP\\Documents\\EGLÖP\\Importante\\UCM\\EduardoGallardo-MAP\\Git\\Grupo21Juego\\Practica4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EGLÖP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
